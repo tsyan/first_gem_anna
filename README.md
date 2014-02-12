@@ -1,5 +1,7 @@
 # FirstGemAnna
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_anna.png)](http://badge.fury.io/rb/first_gem_anna)
+
 TODO: Write a gem description
 
 ## Installation
